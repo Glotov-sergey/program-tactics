@@ -1,0 +1,14 @@
+.items {
+  background: linear-gradient(
+    91.74deg,
+    #291150 4.67%,
+    rgba(32, 5, 60, 0.19) 102.53%
+  );
+  display: flex;
+  justify-content: space-between;
+  padding-top: 62px;
+  padding-bottom: 62px;
+  padding-left: 44px;
+  padding-right: 44px;
+  border-radius: 10px;
+}

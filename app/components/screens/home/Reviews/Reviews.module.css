@@ -1,0 +1,9 @@
+.review {
+  background: linear-gradient(
+    91.74deg,
+    #291150 4.67%,
+    rgba(32, 5, 60, 0.19) 102.53%
+  );
+  border-radius: 10px;
+  padding: 44px 46px;
+}

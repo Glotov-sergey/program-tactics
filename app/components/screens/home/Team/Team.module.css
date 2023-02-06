@@ -1,0 +1,16 @@
+.item {
+  background: linear-gradient(
+    93.82deg,
+    rgba(48, 38, 85, 0.43) 1.75%,
+    rgba(20, 1, 41, 0.73) 98.13%
+  );
+  border-radius: 16px;
+  padding-bottom: 41px;
+  padding-top: 80px;
+  padding-left: 30px;
+  padding-right: 30px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

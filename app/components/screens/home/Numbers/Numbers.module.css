@@ -1,0 +1,7 @@
+.num {
+  @apply text-yellow text-[72px];
+}
+
+.text {
+  @apply text-[20px] max-w-[277px];
+}
